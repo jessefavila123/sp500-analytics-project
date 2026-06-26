@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: raw
+    database: SP500_DB
+    schema: RAW
+    tables:
+      - name: sp500_financials_raw
+      - name: sp500_companies_with_sectors
