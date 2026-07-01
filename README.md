@@ -42,6 +42,8 @@ models/
 - Joined two independent datasets on ticker symbol
 - Calculated profit margin percentage (Income / Revenue)
 - Categorized companies into Mega Cap / Large Cap / Mid Cap / Small Cap tiers
+<img width="583" height="326" alt="Screenshot 2026-07-01 132403" src="https://github.com/user-attachments/assets/74d8255d-cbf9-4deb-9647-4acaeac3e179" />
+<img width="749" height="148" alt="DAG" src="https://github.com/user-attachments/assets/8179d41b-3a28-4b2b-a0a7-6b476902d747" />
 
 ## Dashboard Highlights
 - **503** S&P 500 companies analyzed
