@@ -42,7 +42,7 @@ models/
 - Joined two independent datasets on ticker symbol
 - Calculated profit margin percentage (Income / Revenue)
 - Categorized companies into Mega Cap / Large Cap / Mid Cap / Small Cap tiers
-<img width="583" height="326" alt="Screenshot 2026-07-01 132403" src="https://github.com/user-attachments/assets/74d8255d-cbf9-4deb-9647-4acaeac3e179" />
+
 <img width="749" height="148" alt="DAG" src="https://github.com/user-attachments/assets/8179d41b-3a28-4b2b-a0a7-6b476902d747" />
 
 ## Dashboard Highlights
@@ -52,6 +52,8 @@ models/
 - Information Technology dominates market cap at $8T+
 - Real Estate leads all sectors in average profit margin (~28%)
 - Mega Cap companies hold 53.95% of total S&P 500 market value
+
+<img width="583" height="326" alt="Screenshot 2026-07-01 132403" src="https://github.com/user-attachments/assets/74d8255d-cbf9-4deb-9647-4acaeac3e179" />
 
 ## Data Notes
 - ~441 of 503 companies have complete financial data
